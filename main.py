@@ -15,7 +15,7 @@ print("""
   ░ ▒  ▒   ░ ▒ ▒░ ░ ░▒  ░   ░ ░    ░▒ ░ ▒░
   ░ ░  ░ ░ ░ ░ ▒  ░  ░  ░     ░     ░   ░ 
     ░        ░ ░        ░     ░     ░     
-made by Mr-Cuda
+Made by Mr-Cuda
 """)
 a = str(input("ip>"))
 b = int(input("port>"))
