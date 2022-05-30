@@ -3,6 +3,6 @@ DDos made in python
 
 # How to use?
 
-- install python 
+- install [Python](https://python.org/download/) 
 
 - click on start.bat
