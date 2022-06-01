@@ -38,7 +38,7 @@ def start():
             print(f"ddosing {target} on port {port} allready sent : {x}")
         except:
             d.close()
-            print("we are done here...")
+            print("Done...")
             quit()
             time.sleep(10)
 for x in range(thread):
