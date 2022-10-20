@@ -6,3 +6,7 @@ DDos made in python
 - install [Python](https://python.org/download/) 
 
 - click on start.bat
+
+# Mmh
+
+Not working i think
